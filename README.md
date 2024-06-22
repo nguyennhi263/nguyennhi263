@@ -1,7 +1,5 @@
 # Nhi Nguyen
 
-![Profile Picture](profile-picture.jpg)
-
 Hello 👋
 I'm Nhi, a passionate software developer based in Saigon
 
